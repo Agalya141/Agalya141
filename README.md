@@ -1,9 +1,12 @@
-## Hi there 👋
-
-
-**Agalya141/Agalya141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Agalya141&color=8B3A62&style=flat-square" alt="profile views" />
+</p>
 
 <h1 align="center">Hi there, I'm Agalya 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B3A62&center=true&vCenter=true&width=435&lines=Aspiring+Frontend+Developer;BCA+Graduate;JavaScript+Learner;Building+with+HTML+%26+CSS" alt="Typing SVG" />
+</p>
 
 <h3 align="center">Aspiring Frontend Developer | BCA Graduate</h3>
 
@@ -15,6 +18,7 @@
 - 💻 Learning frontend web development — HTML, CSS, JavaScript
 - 📚 Actively practicing on Frontend Mentor, freeCodeCamp, Exercism, and Codewars
 - 🌱 Currently improving my JavaScript logic-building and problem-solving skills
+- 🔨 Currently working on: **Social Proof Section** (Frontend Mentor)
 - ✍️ My hobbies include doodling, journaling, and learning coding
 - 🎯 Looking for opportunities as a Junior Frontend Developer
 
@@ -24,6 +28,15 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Agalya141&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Agalya141&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
