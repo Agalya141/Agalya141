@@ -12,11 +12,11 @@
 
 ### 📌 About
 
-- 🎓 BCA Graduate, Tiruppur Kumaran College for Women — 8.2 CGPA
+- 🎓 BCA Graduate, Tiruppur Kumaran College for Women — 8.3 CGPA
 - 💻 Learning frontend development — HTML, CSS, JavaScript
-- 📚 Practicing on Frontend Mentor, freeCodeCamp, Exercism & Codewars
-- 🌱 Sharpening my JavaScript problem-solving
+- 📚 I actively learn and practice on platforms like Frontend Mentor, freeCodeCamp, and Exercism
 - 🎯 Open to Junior Frontend Developer roles
+- ☕ My hobbies include coding, watching anime, and sketching
 
 <br>
 
@@ -26,8 +26,14 @@
 
 ### 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<p align="center"><strong>Tools</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 <br>
@@ -38,14 +44,36 @@
 
 ### 🚀 Frontend Mentor Projects
 
-| Project | Link |
-|---|---|
-| 🍲 Recipe Page | [View →](https://github.com/Agalya141/recipe-page) |
-| 🔗 Social Links Profile | [View →](https://github.com/Agalya141/social-links-profile) |
-| 🖼️ NFT Preview Card | [View →](https://github.com/Agalya141/nft-preview-card) |
-| 📱 QR Code Component | [View →](https://github.com/Agalya141/qr-code-component) |
-| 💳 Single Price Grid | [View →](https://github.com/Agalya141/single-price-grid-component) |
-| ❓ FAQ Accordion | [View →](https://github.com/Agalya141/faq-accordion) |
+<p align="center"><strong>Newbie</strong></p>
+<p align="center">
+  <a href="https://github.com/Agalya141/Recipe_card_page"><img src="https://img.shields.io/badge/Newbie-Recipe_Page-38bdf8?style=flat-square" /></a>
+  <a href="https://github.com/Agalya141/Social_links"><img src="https://img.shields.io/badge/Newbie-Social_Links_Profile-38bdf8?style=flat-square" /></a>
+  <a href="https://github.com/Agalya141/NFT-preview-card"><img src="https://img.shields.io/badge/Newbie-NFT_Preview_Card-38bdf8?style=flat-square" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Agalya141/Qr_Code"><img src="https://img.shields.io/badge/Newbie-QR_Code_Component-38bdf8?style=flat-square" /></a>
+  <a href="https://github.com/Agalya141/Single-price-grid-component"><img src="https://img.shields.io/badge/Newbie-Single_Price_Grid-38bdf8?style=flat-square" /></a>
+  <a href="https://github.com/Agalya141/FAQ-accordion"><img src="https://img.shields.io/badge/Newbie-FAQ_Accordion-38bdf8?style=flat-square" /></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Newbie-Social_Proof_Section-38bdf8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Newbie-Fylo_Data_Storage-38bdf8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Newbie-Blog_Preview_Card-38bdf8?style=flat-square" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Newbie-Product_Preview_Card-38bdf8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Newbie-Four_Card_Feature_Section-38bdf8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Newbie-Stats_Preview_Card-38bdf8?style=flat-square" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Newbie-Result_Summary_Component-38bdf8?style=flat-square" />
+  <a href="https://github.com/Agalya141/Order_Summary_Component"><img src="https://img.shields.io/badge/Newbie-Order_Summary_Component-38bdf8?style=flat-square" /></a>
+</p>
+
+<p align="center"><strong>First Project</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌱_First_Project-ScoopJoy-8B3A62?style=flat-square" />
+</p>
 
 🏅 **Certification:** freeCodeCamp — Responsive Web Design
 
@@ -57,7 +85,7 @@
 
 ### 📫 Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/agalya6">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:agal4312@gmail.com">Email</a>
 </p>
