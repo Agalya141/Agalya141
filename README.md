@@ -77,8 +77,8 @@
   <a href="https://agalya141.github.io/Social_Proof_Section/">
     <img src="https://img.shields.io/badge/Newbie-Social_Proof_Section-38bdf8?style=flat-square" />
   </a>
-  <a href="https://agalya141.github.io/Fylo_data_storage_component/">
-    <img src="https://img.shields.io/badge/Newbie-Fylo_Data_Storage-38bdf8?style=flat-square" />
+  <a href="https://agalya141.github.io/Profile_Card_Component/">
+    <img src="https://img.shields.io/badge/Newbie-Profile_Card-38bdf8?style=flat-square" />
   </a>
   <a href="https://agalya141.github.io/Blog_Preview_Card/">
     <img src="https://img.shields.io/badge/Newbie-Blog_Preview_Card-38bdf8?style=flat-square" />
@@ -103,6 +103,26 @@
   </a>
   <a href="https://agalya141.github.io/Order_Summary_Component/">
     <img src="https://img.shields.io/badge/Newbie-Order_Summary_Component-38bdf8?style=flat-square" />
+  </a>
+  <a href="https://agalya141.github.io/Three_Column_Card_Component/">
+    <img src="https://img.shields.io/badge/Newbie-Three_Column_Card-38bdf8?style=flat-square" />
+  </a>
+  
+</p>
+
+<br>
+
+<p align="center"><strong>Junior</strong></p>
+
+<p align="center">
+  <a href="https://agalya141.github.io/Fylo_data_storage_component/">
+    <img src="https://img.shields.io/badge/Junior-Fylo_Data_Storage-818cf8?style=flat-square" />
+  </a>
+  <a href="https://agalya141.github.io/Testimonials_Grid_Section/">
+    <img src="https://img.shields.io/badge/Junior-Testimonials_Grid_Section-818cf8?style=flat-square" />
+  </a>
+  <a href="https://agalya141.github.io/Bento_grid/">
+    <img src="https://img.shields.io/badge/Junior-Bento_Grid-818cf8?style=flat-square" />
   </a>
 </p>
 
