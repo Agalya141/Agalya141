@@ -139,7 +139,9 @@
 <br>
 
 <h3 align="center">🏅 Certification</h3>
-<p align="center">freeCodeCamp — Responsive Web Design</p>
+<p align="center">
+  <a href="https://freecodecamp.org/certification/fcc-2033cb29-de4a-4dd9-bfb4-4e72983a4d5d/responsive-web-design-v9"><img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0a0a23?style=flat-square" /></a>
+</p>
 
 <br>
 
