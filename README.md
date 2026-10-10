@@ -48,6 +48,7 @@
 <h3 align="center">⚡ JavaScript Projects</h3>
 <p align="center">
   <a href="https://agalya141.github.io/Rock-Paper-Scissors-Game/"><img src="https://img.shields.io/badge/JavaScript-Rock_Paper_Scissors-f7df1e?style=flat-square&labelColor=555" /></a>
+  <a href="https://agalya141.github.io/To_Do_List/"><img src="https://img.shields.io/badge/JavaScript-To_Do_List-f7df1e?style=flat-square&labelColor=555" /></a>
 </p>
 
 <br> 
